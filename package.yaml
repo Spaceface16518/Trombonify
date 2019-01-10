@@ -20,7 +20,7 @@ description:         Please see the README on GitHub at <https://github.com/Spac
 
 dependencies:
 - base >= 4.7 && < 5
-- split >= 0.2 && < 0.3
+- split >= 0.2.3.3 && < 0.3
 
 library:
   source-dirs: src
