@@ -4,4 +4,4 @@ This is a simple command line application that turns English characters into "tr
 
 This package is kind of a joke, but if you want some background, this meme might help.
 
-![Trombone text](https://github.com/Spaceface16518/Trombonify/resources/trombone_text.jpeg)
+![Trombone text](https://github.com/Spaceface16518/Trombonify/raw/master/resources/trombone_text.jpeg)
