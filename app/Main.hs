@@ -1,6 +1,10 @@
 module Main where
 
-import Lib
+import           Data.Char
+import           Lib
+import           System.Environment
 
 main :: IO ()
-main = someFunc
+main = do
+    (argv) <- getArgs
+    putStrLn . process (getChoice argv) . map toLower . getMeat $ argv
