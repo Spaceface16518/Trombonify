@@ -3,7 +3,7 @@ module Lib
     decode,
     process,
     getMeat,
-    UserChoice(..),
+    UserChoice(Encode, Decode),
     getChoice,
     ) where
 

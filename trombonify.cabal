@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: de828a8799f232398bce6954a3fa138510d46a61b0d9c8459f2cb38449218388
+-- hash: 5fdf837e4e749ea76722cb87a754c9ea10087683e309c4722dc056c8c1cd1a89
 
 name:           trombonify
-version:        0.1.0.2
+version:        0.1.0.3
 description:    Please see the README on GitHub at <https://github.com/Spaceface16518/Trombonify#readme>
 homepage:       https://github.com/Spaceface16518/Trombonify#readme
 bug-reports:    https://github.com/Spaceface16518/Trombonify/issues
